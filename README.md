@@ -18,3 +18,6 @@ Vasconcelos, J. (2025). Geometric Morphometrics Manual Using StereoMorph and Mor
 This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 Feel free to clone, adapt, or cite this repository when using this workflow in your own studies. 
+
+[![DOI](https://zenodo.org/badge/DOI/YOUR_DOI_HERE.svg)](https://doi.org/YOUR_DOI_HERE)
+

@@ -19,5 +19,5 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 
 Feel free to clone, adapt, or cite this repository when using this workflow in your own studies. 
 
-[![DOI](https://zenodo.org/badge/DOI/YOUR_DOI_HERE.svg)](https://doi.org/YOUR_DOI_HERE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16617766.svg)](https://doi.org/10.5281/zenodo.16617766)
 
